@@ -1,0 +1,39 @@
+[
+  {
+      "id": 0,
+      "name": "Ola",
+      "age": 20,
+      "isMarried": false,
+      "gender": "male"
+  },
+  {
+      "id": 1,
+      "name": "Tolani",
+      "age": 27,
+      "isMarried": true,
+      "gender": "female"
+  },
+  {
+      "id": 2,
+      "name": "Laolu",
+      "age": 30,
+      "isMarried": true,
+      "gender": "male"
+  },
+  {
+      "id": 3,
+      "name": "Shalewa",
+      "age": 50,
+      "isMarried": true,
+      "gender": "female",
+      "hasChildren": true
+  },
+  {
+      "id": 4,
+      "name": "Lalude",
+      "age": 70,
+      "isMarried": true, 
+      "gender": "male",
+      "isDivorced": true
+  }
+]
